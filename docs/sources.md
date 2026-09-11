@@ -5,8 +5,8 @@
 | 材料 | 作者或维护者／年份 | 本项目使用范围 |
 |---|---|---|
 | [Euclid's Elements IX.20](https://mathcs.clarku.edu/~djoyce/elements/bookIX/propIX20.html) | 欧几里得；David E. Joyce维护的大学页面，古典命题 | Issue 002构造证明的来源，正文用现代中文教学表述 |
-| [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | Ashish Vaswani等，2017；页面所列v7修订于2023 | Issue 001计划的摘要、图示与注意力阅读入口；未完成复现 |
-| [Learn Lean](https://lean-lang.org/learn/) | Lean官方学习资源页，动态更新 | Issue 003的Lean 4入门入口；尚未运行证明检查 |
+| [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | Ashish Vaswani等，2017；页面所列v7修订于2023 | Issue 001采用第3.2.1节公式完成单查询计算演示；不是完整训练实验复现 |
+| [Learn Lean](https://lean-lang.org/learn/) | Lean官方学习资源页，动态更新 | Issue 003后续Lean 4入门入口；尚未运行Lean检查。当前Python多项式演示独立于Lean |
 
 工作设想中的部门衔接依据竞聘者提供的创新实践部招新介绍：赛事通知与材料跟进、大创申报与结题跟进、特色实践活动和科创讲座。此处是工作设想，不是对学院最新政策或赛事规则的独立公告。
 
