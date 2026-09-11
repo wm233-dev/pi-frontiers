@@ -13,6 +13,7 @@
 | 如何读论文而不只读AI摘要 | [阅读方法与示范卡](docs/READING_METHOD.md) |
 | AI能展示什么实际计算 | [Issue 001：注意力公式、手算、练习与演示](issues/001-ai/guide.md) |
 | 数学基础如何进入 | [Issue 002：素数为什么有无穷多个](issues/002-mathematics/guide.md) |
+| 经典数学怎样连接当前前沿 | [素数间隔前沿桥接卡](docs/frontier-bridge-prime-gaps.md) |
 | AI与数学交叉如何落到验证 | [Issue 003：恒等式检查与抽样陷阱](issues/003-ai-mathematics/guide.md) |
 | 同学实际做什么 | [10分钟练习](issues/002-mathematics/exercises.md)与[答案](issues/002-mathematics/answers.md) |
 | 如何组织一次分享 | [30分钟主持流程](docs/session-plan.md) |
@@ -61,6 +62,8 @@ python -m unittest discover -s tests -v
 | 候选结论与核查分离 | 尝试Lean 4入门，理解形式化命题和检查边界 | 真正运行的Lean证明与审阅，尚未完成 |
 
 项目名称中的“前沿”是逐步进入的方向；当前样稿先建立阅读和验证方法，不把经典内容包装成最新成果。
+
+一个现实入口是[素数无穷多个 → bounded prime gaps → twin prime conjecture](docs/frontier-bridge-prime-gaps.md)：2026-09前沿案例为GPT-6 Astra参与的H₁≤186结果，**不是孪生素数证明**。桥接卡同时说明PrimeGaps186的条件形式化与验证边界，不增加新一期活动。
 
 ## 使用与纠错
 
